@@ -1,0 +1,4 @@
+# Project exclude paths
+/hero-consumer/target/
+/hero-interface/target/
+/hero-provider/target/
